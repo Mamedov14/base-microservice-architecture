@@ -1,4 +1,4 @@
-rootProject.name = 'microservice'
+rootProject.name = 'base-microservice-architecture'
 
 includeBuild('eureka-server')
 includeBuild('eureka-client')
